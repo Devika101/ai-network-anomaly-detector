@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+netenv/
+
+# Ignore large files
+*.pcap
+*.pkl
+*.csv
+*.png
